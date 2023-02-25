@@ -3,7 +3,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./pages/Home/Home";
 import Shoes from "./pages/Shoes/Shoes";
 import Shoe from "./pages/Shoe/Shoe";
-import Error from "./pages/Error/Error";
+import Error from "./pages/Error  /Error  ";
 import LayoutWrapper from "./components/LayoutWrapper";
 
 function App() {
