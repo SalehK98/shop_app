@@ -1,0 +1,24 @@
+nav {
+  background-color: teal;
+}
+
+ul {
+  margin-top: 0;
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin: 0 50px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.activeStyle {
+  text-decoration: underline;
+  color: black;
+  background-color: steelblue;
+}

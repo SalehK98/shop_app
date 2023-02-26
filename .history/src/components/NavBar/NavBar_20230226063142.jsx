@@ -1,14 +1,11 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "./NavBar.module.css";
+import classes from "./NavBar.module.css";
 
 export default function NavBar() {
-  let activeStyle = {
-    color: "black",
-    backgroundColor: "coral",
-    border: "transparent",
-    borderRadius: "5px",
-  };
+  let activeStyle = classes.activeStyle;
+  console.log(typeof activeStyle);
   return (
     <nav>
       <ul>
