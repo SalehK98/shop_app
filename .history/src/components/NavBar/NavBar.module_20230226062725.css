@@ -1,0 +1,15 @@
+nav {
+  background-color: teal;
+}
+
+ul {
+  margin-top: 0;
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin: 0 50px;
+  text-decoration: none;
+  color: aliceblue;
+}

@@ -4,10 +4,10 @@ import "./NavBar.module.css";
 
 export default function NavBar() {
   let activeStyle = {
+    textDecoration: "underline",
     color: "black",
     backgroundColor: "coral",
-    border: "transparent",
-    borderRadius: "5px",
+    bor,
   };
   return (
     <nav>
