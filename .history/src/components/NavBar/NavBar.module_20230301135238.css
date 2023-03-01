@@ -1,0 +1,24 @@
+nav {
+  background-color: #ff2e63;
+}
+
+ul {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+
+li {
+  margin: 0 50px;
+  padding: 10px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: aliceblue;
+  padding: 10px;
+  box-sizing: border-box;
+}

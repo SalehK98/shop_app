@@ -1,0 +1,16 @@
+body {
+  /* background-image: linear-gradient(to bottom right, #252a34, #ff2e63); */
+  /* background-image: url("./assets/images/9226227b8f9c1aa720f69aefe970d9ad.jpg"); */
+
+  /* background-image: url("./assets/images/20534960.jpg"); */
+  background-image: url("./assets/images/210101.jpg");
+  /* background-image: url("./assets/images/images.jpg"); */
+  background-position: center;
+  /* background-size: cover; */
+}
+
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
