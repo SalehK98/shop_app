@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient(to bottom right, #252a34, #ff2e63);
+}
+
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
